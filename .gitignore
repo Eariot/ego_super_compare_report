@@ -1,0 +1,10 @@
+.claude/
+.codex/
+openspec/
+*.log
+build/
+devel/
+install/
+.vscode/
+__pycache__/
+*.pyc
